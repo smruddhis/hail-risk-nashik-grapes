@@ -48,3 +48,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+# Large data files
+data/raw/*.nc
+data/raw/*.grd
+*.zip
+
+# Credentials
+.cdsapirc
