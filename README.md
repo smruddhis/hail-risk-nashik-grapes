@@ -12,7 +12,7 @@ This project models the annual hail loss for a 1-hectare grape orchard in Nashik
 
 ## Problem statement
 
-Nashik grows ~60% of India's table grapes. Hail during the fruiting season (April–June) causes widespread crop loss, sometimes wiping out 50–80% of production in affected talukas. Farmers lack affordable insurance mechanisms, partly because insurers lack reliable hail risk models.
+Nashik grows ~60% of India's table grapes. Hail during the fruiting season (June–September) causes widespread crop loss, sometimes wiping out 50–80% of production in affected talukas. Farmers lack affordable insurance mechanisms, partly because insurers lack reliable hail risk models.
 
 This project demonstrates a quantitative approach to hail risk using frequency-severity modelling, a core actuarial technique.
 
